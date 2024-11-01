@@ -25,4 +25,13 @@ profiles:
       <p>555 your office number</p>
       <p>123 your address street</p>
       <p>Your City, State 12345</p>
+  - align: left
+    image: alaska.jpeg
+    content: about_alaska_tengli.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>18 holton</p>
+      <p>allston</p>
+      <p>MA</p>
+  
 ---
